@@ -69,7 +69,7 @@ h2 {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 668px) {
   .main-task {
     width: 90%;
   }
