@@ -16,7 +16,7 @@ body {
 }
 
 .main-task {
-  width: 50%;
+  width: 70%;
   margin: auto;
 }
 
@@ -69,7 +69,7 @@ h2 {
 }
 
 
-@media screen and (max-width: 668px) {
+@media screen and (max-width: 768px) {
   .main-task {
     width: 90%;
   }
