@@ -67,3 +67,24 @@ h2 {
   padding-block: 10px;
   padding-inline: 9px;
 }
+
+
+@media screen and (max-width: 768px) {
+  .main-task {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 330px) {
+  .titleButton {
+    flex-direction: column;
+}
+.btn-group{
+      padding-block: 16px;
+  }
+  #form{
+    flex-direction: column;
+  }
+  #createTask{
+    width: 100%;
+  }
+}
