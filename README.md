@@ -24,3 +24,9 @@ A simple Task Management Application built using **Vanilla JavaScript** to pract
 ---
 
 ## Folder Structure
+
+task-management-for-js-pratice/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
